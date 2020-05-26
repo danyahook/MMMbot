@@ -49,5 +49,8 @@ FOR_UN_PERF_CALL = 'forunperf'
 CHANNEL_LINK = 'https://t.me/usdnbot_channel'
 GROUP_LINK = 'https://t.me/usdnbot_group'
 
-CHANNEL_ID = -1001458838074
+CHANNEL_ID = -1001100854769
 GROUP_ID = -1001417051432
+
+db_keys = ['id', 'user_id', 'user_name', 'user_hash', 'balance',
+           'rate', 'status', 'address', 'reg_time', 'invest']
